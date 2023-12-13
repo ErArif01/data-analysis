@@ -1,0 +1,23 @@
+## Computational biology simulations 
+Computational biology simulations involve the use of computer algorithms and mathematical models to simulate biological processes and systems. These simulations play a crucial role in understanding complex biological phenomena, predicting behavior, and testing hypotheses.
+Here are some common types of computational biology simulations : 
+
+1. Molecular Dynamics Simulations - 
+  Objective : study the movements and interaction of atoms and molecules over time.
+  Applications : protein folding, drug binding, and understanding the dynamics of biomolecular structures.
+
+2. Monte carlo simulations - 
+  Objective : stochastically simulate the behavior of complex system using random sampling.
+  Applications : Protein-ligand binding, thermodynamics, and predicting molecular conformations.
+
+3. Agent-based models - 
+  objective : simulate the interations and behaviors of indiviual agents, often representing cells or organisms.
+  application : population dynamics, immune system responses, and ecosystems.
+
+4. Cellular automata models - 
+  objective : represent complex biological systems as a grid of cells that evolve over discrete time steps.
+  applications : tumor growth, pattern formation, and cellular development.
+
+5. Reaction-Diffusion models - 
+  objective : simulate the spatiotemporal distrubution of substances based on their rates of diffusion and chemical reactions.
+  applications : morphogenesis, pattern formation, and neural network dynamics.
